@@ -11,7 +11,7 @@ Usage is very simple.
 1. Install requirements `pip install -r requirements.txt`
 2. Start example `python examples/simple_speedometer.py`
 3. Go to www.terradrive.eu and start open world game
-4. Click on "`" or  ";" button to open in game console
+4. Press"`" or  ";" key to open in game console
 5. Type `/wsConnect localhost:8765`
 6. You should see moving speedometer
 7. Optional you can type `/wsDisconnect` to stop streaming data
