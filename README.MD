@@ -5,6 +5,7 @@ such as current position, speed, RPMs, gear, way point and more.
 This allows you to create a fun projects such as custom speedometer, navigation and more.
 Usage is very simple.
 
+<img src="imgs/demo.gif" width="400"/>
 
 ## Quick start
 1. Install requirements `pip install -r requirements.txt`
