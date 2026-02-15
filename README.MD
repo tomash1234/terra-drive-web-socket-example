@@ -14,7 +14,7 @@ Usage is very simple.
 4. Press"`" or  ";" key to open in game console
 5. Type `/wsConnect localhost:8765`
 6. You should see moving speedometer
-7. Optional you can type `/wsDisconnect` to stop streaming data
+7. [Optional] you can type `/wsDisconnect` to stop streaming data
 
 
 ## Data Sending
